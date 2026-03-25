@@ -51,4 +51,4 @@ Uma analogia clássica apresentada é a de um **Atendimento Telefônico**. Ao li
 O padrão Facade é uma ferramenta essencial para o gerenciamento de complexidade. No contexto de **Engenharia de Software**, ele é fundamental para criar camadas de abstração que permitem o desenvolvimento de sistemas mais limpos e modulares. Para um projeto como o "EcoEstrutura", por exemplo, o uso de Facades pode ser vital para integrar diferentes módulos de gestão de resíduos sem poluir a lógica principal da aplicação.
 
 ---
-# Resenha-fa-ade
+
